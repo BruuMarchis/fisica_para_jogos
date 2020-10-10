@@ -96,6 +96,6 @@ public:
 };
 
 //Aqui fazemos o registro do novo teste 
-static int testIndex = RegisterTest("Examples", "Lista1ex08", Lista1ex08::Create);
+static int testIndex = RegisterTest("__Fisica para Jogos", "Lista1ex08", Lista1ex08::Create);
 
 

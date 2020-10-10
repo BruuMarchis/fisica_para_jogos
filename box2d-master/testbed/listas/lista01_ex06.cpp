@@ -47,7 +47,7 @@ public:
 };
 
 //Aqui fazemos o registro do novo teste 
-static int testIndex = RegisterTest("Examples", "Lista1ex06", Lista1ex06::Create);
+static int testIndex = RegisterTest("__Fisica para Jogos", "Lista1ex06", Lista1ex06::Create);
 
 b2Body* Lista1ex06::createBox(b2Vec2 position, b2Vec2 dimention, float density, float friction, float restitution, b2BodyType type)
 {

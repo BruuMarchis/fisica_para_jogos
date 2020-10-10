@@ -1,7 +1,7 @@
 # fisica_para_jogos
 
 
-Na execução, os exercicios são encontrados em Tests > Examples.
+Na execução, os exercicios são encontrados em Tests > __Fisica para Jogos
 
 Eles seguem um padrao de nome Lista(numero)ex(numero), por exemplo
 Lista1ex08
